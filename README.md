@@ -1,0 +1,2 @@
+# ElevateShop-A-User-Friendly-Online-Shopping-System-with-an-Intelligent-Database-Management
+The "ElevateShop" project endeavors to create a cutting-edge online shopping system that redefines the customer experience through seamless user interactions and an intelligent database management approach. By combining intuitive design with robust technology, this system aims to provide a user-friendly, and insightful decision-making.
