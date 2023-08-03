@@ -8,4 +8,4 @@ Welcome To "ElevateShop" project endeavors to create a cutting-edge online shopp
 
 
 
-"ElevateShop" aims to revolutionize the world of online shopping, fostering lasting relationships between customers and businesses and propelling e-commerce ventures to new heights of success.
+**"ElevateShop" aims to revolutionize the world of online shopping, fostering lasting relationships between customers and businesses and propelling e-commerce ventures to new heights of success.**
